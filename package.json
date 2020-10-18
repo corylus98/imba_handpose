@@ -1,0 +1,15 @@
+{
+  "name": "imba_handpose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/corylus98/imba_handpose",
+  "author": "corylus98 <yuchen_chen@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/handpose": "^0.0.6",
+    "@tensorflow/tfjs-backend-cpu": "^2.6.0",
+    "@tensorflow/tfjs-core": "^2.6.0",
+    "@tensorflow/tfjs-node": "^2.6.0",
+    "canvas": "^2.6.1"
+  }
+}
